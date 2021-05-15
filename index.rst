@@ -56,15 +56,6 @@ Moving around in RViz, you should be able to see **the robot and the ball** it h
    :caption: Contents:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
 .. _SimSpark: https://gitlab.com/robocup-sim/SimSpark/-/wikis/home
 .. _NaoSoccerSim: https://github.com/ijnek/naosoccer_sim
 .. _ROS2 Nao Package: https://github.com/ijnek/nao
