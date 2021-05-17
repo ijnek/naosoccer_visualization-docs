@@ -16,6 +16,7 @@ in RViz.
    :hidden:
    :maxdepth: 2
 
+   installation
    visualize-nao-in-rviz
    visualize-topics
    related-ros2-packages
