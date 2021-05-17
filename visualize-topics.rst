@@ -18,3 +18,19 @@ Visualize ball
 Ball Visuzalization is enabled by default.
 
 .. image:: images/ball.gif
+
+Visualize goal posts
+********************
+
+Goal posts are enabled by default.
+
+.. image:: images/goalposts.png
+
+Visualize field lines
+*********************
+
+Field lines are enabled by default.
+
+.. image:: images/field_lines.png
+
+
