@@ -21,7 +21,7 @@ Start our simulated player:
 
 .. code-block:: console
 
-   ros2 launch rcss3d_agent player_launch.py
+   ros2 run rcss3d_agent rcss3d_agent
 
 Start our nao_state_publisher:
 
