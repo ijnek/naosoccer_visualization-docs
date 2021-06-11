@@ -33,7 +33,7 @@ Finally, start rviz:
 
 .. code-block:: console
 
-   ros2 launch naosoccer_visualization rviz_launch.py
+   ros2 launch naosoccer_visualization_launch rviz_launch.py
 
 Moving around in RViz, you should be able to see what the robot has observed.
 
