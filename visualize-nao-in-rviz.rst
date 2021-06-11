@@ -35,7 +35,7 @@ Finally, start rviz:
 
    ros2 launch naosoccer_visualization rviz_launch.py
 
-Moving around in RViz, you should be able to see **the robot and the ball** it has observed.
+Moving around in RViz, you should be able to see what the robot has observed.
 
 .. image:: images/nao_rviz.png
 

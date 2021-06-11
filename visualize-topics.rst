@@ -33,4 +33,10 @@ Field lines are enabled by default.
 
 .. image:: images/field_lines.png
 
+Visualize corner flags
+**********************
+
+Corner flags are disabled by default.
+
+.. image:: images/flags.png
 
