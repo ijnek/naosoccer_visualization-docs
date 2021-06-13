@@ -1,5 +1,5 @@
-Visualize eye leds in RViz
-##########################
+Visualizing eye leds in RViz
+############################
 
 Opening Eye LEDs Panel in RViz
 ******************************
