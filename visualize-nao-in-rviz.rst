@@ -6,7 +6,7 @@ Visualizing Nao in RViz
 .. note::
    
    This tutorial assumes you have installed `SimSpark`_, `NaoSoccerSim`_, `ROS2 Nao Package`_,
-   as well as this package.
+   as well as the packages for this project.
 
 
 To visualize the robot in RViz, do the following, in separate terminals.
