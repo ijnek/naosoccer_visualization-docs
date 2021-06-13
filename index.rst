@@ -19,4 +19,5 @@ in RViz.
    installation
    visualize-nao-in-rviz
    visualize-topics
+   visualize-eye-leds
    related-ros2-packages
