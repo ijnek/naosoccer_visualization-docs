@@ -9,6 +9,8 @@ Nao Soccer Visualization
 This package is used to visualize ROS2 topics related to nao soccer,
 in RViz.
 
+The project is hosted on `Github`_.
+
 .. image:: images/nao_rviz.png
 
 
@@ -21,3 +23,5 @@ in RViz.
    visualize-topics
    visualize-eye-leds
    related-ros2-packages
+
+.. _Github: https://github.com/ijnek/naosoccer_visualization
