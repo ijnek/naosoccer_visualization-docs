@@ -42,7 +42,7 @@ Modify the r, g, b values between 0.0 and 1.0, for each LED. You should see the 
 
 .. note::
 
-  See `nao_interfaces/msg/EyeLeds`_ for more details, such as the indexes for the leds.
+  See `nao_command_msgs/msg/EyeLeds`_ for more details, such as the indexes for the leds.
 
 
-.. _nao_interfaces/msg/EyeLeds: https://nao-interfaces-docs.readthedocs.io/en/latest/msgs.html#eyeleds
+.. _nao_command_msgs/msg/EyeLeds: https://nao-interfaces-docs.readthedocs.io/en/latest/msgs.html#eyeleds
