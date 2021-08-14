@@ -5,14 +5,14 @@ Visualizing Nao in RViz
 
 Below are two sets of instructions, for using either:
 
-* **A simulated robot (rcss3d_agent)** - with the `SimSpark`_ simulator using the `NaoSoccerSim`_ package
+* **A simulated robot (rcss3d_nao)** - with the `SimSpark`_ simulator using the `NaoSoccerSim`_ package
 * **A real NAO (nao_lola)** - using the `Nao Lola`_ package
 
 Select the appropriate tab.
 
 .. tabs::
 
-   .. group-tab:: rcss3d_agent
+   .. group-tab:: rcss3d_nao
 
       These are instructions for visualizing a simulated robot.
 
@@ -31,7 +31,7 @@ Select the appropriate tab.
  
       .. code-block:: console
 
-         ros2 run rcss3d_agent rcss3d_agent
+         ros2 run rcss3d_nao rcss3d_nao
 
       .. note::
 
